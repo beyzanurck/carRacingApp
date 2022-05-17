@@ -1,0 +1,10 @@
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\bin\Debug\carRacingApp.exe.config
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\bin\Debug\carRacingApp.exe
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\bin\Debug\carRacingApp.pdb
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\obj\Debug\carRacingApp.csprojAssemblyReference.cache
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\obj\Debug\carRacingApp.frmCarRacing.resources
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\obj\Debug\carRacingApp.Properties.Resources.resources
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\obj\Debug\carRacingApp.csproj.GenerateResource.cache
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\obj\Debug\carRacingApp.csproj.CoreCompileInputs.cache
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\obj\Debug\carRacingApp.exe
+C:\Users\nurce\Desktop\C# Projects\Beginner\carRacingApp\carRacingApp\obj\Debug\carRacingApp.pdb
